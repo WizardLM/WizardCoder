@@ -1,2 +1,2 @@
-# WizartdCoder
+# WizardCoder
  
